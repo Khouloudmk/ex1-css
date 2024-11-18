@@ -1,0 +1,43 @@
+#titre{
+    background-color: #1177B0;
+    display: block;
+    border: none;
+    background-size: contain;
+    color: white;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+#Brelative{
+    position: relative;
+    background-color: #129237;
+    border: none;
+    color: white;
+    text-align: center;
+    width: 300px;
+    height:100px;
+    align-content: center;
+}
+#Babsolute{
+    left: 1051px;
+    top:200px;
+    position: absolute;
+    background-color: #D81523;
+    color: white;
+    text-align: center;
+    width: 300px;
+    height:100px;
+    align-content: center;
+}
+#Bfixed{
+    left: 1051px;
+    top: 500px;
+    position: fixed;
+    background-color: #F1FE21;
+    color: white;
+    text-align: center;
+    width: 300px;
+    height:100px;
+    align-content: center;
+    margin-top: 45px;
+}   
